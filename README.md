@@ -35,7 +35,7 @@ Earth → [Jupiter Gravity Assist] → Pluto
 ## 📁 Project Structure
 
 ```
-├── main.m              # Main simulation script (this file)
+├── main.m              # Main simulation script
 └── calculaorbitas.m    # Helper function — integrates a single planet's orbit
 ```
 
